@@ -1,1 +1,2 @@
 # setup-and-use-a-firewall-
+Firewalls filter network traffic by inspecting data packets and applying pre-defined rules to determine whether to allow or block them. These rules can be based on various factors like source and destination IP addresses, port numbers, and protocols. By examining these aspects, firewalls act as a gatekeeper, preventing unauthorized access and protecting networks from malicious traffic, such as malware or unauthorized connections
